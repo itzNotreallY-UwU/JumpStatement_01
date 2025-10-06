@@ -1,4 +1,4 @@
-//Programmer: Irfan Aiman Bin Zuraidi| 21DIT25F1411 | Jump statement 1.0
+//Programmer: Irfan Aiman Bin Zuraidi| Jump statement 1.0
 #include <iostream>
 using namespace std;
 
